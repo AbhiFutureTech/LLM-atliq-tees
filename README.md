@@ -14,9 +14,9 @@
 # Installation
 
 1.Clone this repository to your local machine using:
-
+```
   git clone https://github.com/patilabhi20/LLM_project
-
+```
 2.Navigate to the project directory:
 
   cd 4_sqldb_tshirts
